@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "mongodb": "^3.5.5",
-    "parse-server": "^4.1.0"
+    "parse-server": "^4.10.10"
   },
   "engines": {
     "node": "10.16.0"
